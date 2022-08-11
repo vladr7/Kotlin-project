@@ -1,5 +1,9 @@
 
-class JohnCena: Wrestler() {
+class JohnCena: Wrestler {
+
+    override fun payment(hours: Int) {
+        println(hours)
+    }
 
     override fun themeMusic() {
         println("ta ta ra ta")

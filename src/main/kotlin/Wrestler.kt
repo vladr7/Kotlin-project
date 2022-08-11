@@ -1,11 +1,8 @@
 
-abstract class Wrestler {
+interface Wrestler {
 
-    fun payment(hours: Int) {
-        println(hours)
-    }
-
-    abstract fun themeMusic()
-    abstract fun finisher()
+    fun payment(hours: Int)
+    fun themeMusic()
+    fun finisher()
 
 }

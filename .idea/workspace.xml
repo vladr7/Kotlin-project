@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f2e403f-3c0f-4473-b61c-e74a55a8c7ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Batista.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/JohnCena.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Wrestler.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Batista.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Batista.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/JohnCena.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/JohnCena.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Wrestler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Wrestler.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

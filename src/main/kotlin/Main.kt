@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
 
     val johnCena = JohnCena()
-    johnCena.payment(100)
+    johnCena.payment(50)
     johnCena.finisher()
     johnCena.themeMusic()
 
