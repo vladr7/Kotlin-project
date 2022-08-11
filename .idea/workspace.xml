@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f2e403f-3c0f-4473-b61c-e74a55a8c7ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Batista.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/JohnCena.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Wrestler.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -21,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>

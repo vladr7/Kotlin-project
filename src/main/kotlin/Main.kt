@@ -1,13 +1,12 @@
 fun main(args: Array<String>) {
 
-    star { sun() }
-}
+    val johnCena = JohnCena()
+    johnCena.payment(100)
+    johnCena.finisher()
+    johnCena.themeMusic()
 
-fun sun(): Boolean{
-    println("executed")
-    return true
-}
-
-fun star(function: () -> (Boolean)) {
-    println(function())
+    val batista = Batista()
+    batista.payment(300)
+    batista.finisher()
+    batista.themeMusic()
 }
