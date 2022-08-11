@@ -1,12 +1,10 @@
 fun main(args: Array<String>) {
 
-    val johnCena = JohnCena()
-    johnCena.payment(50)
-    johnCena.finisher()
-    johnCena.themeMusic()
+    val homeViewModel = HomeViewModel()
+    homeViewModel.onSuccess()
+    homeViewModel.onFailed("")
 
-    val batista = Batista()
-    batista.payment(300)
-    batista.finisher()
-    batista.themeMusic()
+    println("----")
+    val privacyPolicyViewModel = PrivacyPolicyViewModel()
+    privacyPolicyViewModel.agreeToTermsPrivacy()
 }
