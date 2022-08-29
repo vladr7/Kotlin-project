@@ -7,6 +7,7 @@ fun main(args: Array<String>) {
         println(this.buildingMaterial)
         println(this.capacity)
         println(this.hasRoom())
+        println(this.floorArea())
     }
 
     val roundHut = RoundHut(3, 20)
@@ -16,6 +17,7 @@ fun main(args: Array<String>) {
         println(this.buildingMaterial)
         println(this.capacity)
         println(this.hasRoom())
+        println(this.floorArea())
     }
 
     val roundTower = RoundTower(9, 9, 9)
@@ -25,5 +27,6 @@ fun main(args: Array<String>) {
         println(this.buildingMaterial)
         println(this.capacity)
         println(this.hasRoom())
+        println(this.floorArea())
     }
 }
